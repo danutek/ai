@@ -54,7 +54,10 @@ P = \left\lbrace \sum_{i=1}^{k} \lambda_i v_i \;\middle|\; \lambda_i \ge 0,\; \s
    P = \{ x \in \mathbb{R}^n \mid Ax \le b \}
 ```
 Regardless of stretching or deformation, the boundary components ($f_k$ faces of dimension $k$) obey the **Euler–Poincaré topological invariant**:
-$$\sum_{k=0}^{n-1} (-1)^k f_k = 1 - (-1)^n$$
+
+```math
+\sum_{k=0}^{n-1} (-1)^k f_k = 1 - (-1)^n
+```
 
 ### Positive Geometries and the Cosmological Polytope
 In theoretical physics, positive geometries (such as the **Amplituhedron** and the **Cosmological Polytope** $\mathcal{P}_G$) invert traditional spacetime physics. Instead of assuming space and time exist first, physics emerges from the static geometry of a timeless crystal defined by pure kinematic boundary energies ($x_v$ at vertices, $y_e$ along internal edges).
