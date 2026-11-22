@@ -63,7 +63,10 @@ Regardless of stretching or deformation, the boundary components ($f_k$ faces of
 In theoretical physics, positive geometries (such as the **Amplituhedron** and the **Cosmological Polytope** $\mathcal{P}_G$) invert traditional spacetime physics. Instead of assuming space and time exist first, physics emerges from the static geometry of a timeless crystal defined by pure kinematic boundary energies ($x_v$ at vertices, $y_e$ along internal edges).
 
 * **Volume as Wavefunction:** Every positive geometry possesses a unique canonical differential form $\Omega(\mathcal{P}_G)$ with logarithmic singularities on its boundaries. Stripping the differentials reveals that the **Wavefunction of the Universe** ($\Psi_G$) is literally the geometric volume of the **dual polytope** $\mathcal{P}_G^*$:
-  $$\Omega(\mathcal{P}_G) = \Psi_G(x_v, y_e) \, d^N Y \quad \Longleftrightarrow \quad \Psi_G(x_v, y_e) = \text{Vol}(\mathcal{P}_G^*)$$
+
+```math
+  \Omega(\mathcal{P}_G) = \Psi_G(x_v, y_e) \, d^N Y \quad \Longleftrightarrow \quad \Psi_G(x_v, y_e) = \text{Vol}(\mathcal{P}_G^*)
+```
 * **Facets as Physical Law:** Approaching the outer facets (energy singularities) of the polytope causes the geometry to factorize. The total-energy facet ($E_{\text{tot}} \to 0$) recovers flat-space scattering amplitudes, while subgraph facets encode **locality** and **unitarity**. Time itself emerges as a coordinate measure of distance from the crystal’s boundaries.
 
 ### Polytopes, Symmetry Breaking, and Phase Transitions in LLMs
