@@ -44,9 +44,10 @@ To move beyond poetic intuition and understand how structure actually operates i
 A **polytope** is the $n$-dimensional generalization of a polygon (2D) or polyhedron (3D). By the **Weyl–Minkowski theorem**, any convex polytope has two equivalent mathematical definitions:
 1. **V-Representation (Inside Out):** The convex hull of a finite set of vertices $v_1, \dots, v_k$ in $\mathbb{R}^n$:
 
-   $$
-   P = \left\lbrace \sum_{i=1}^k \lambda_i v_i \;\middle|\; \lambda_i \ge 0, \sum_{i=1}^k \lambda_i = 1 \right\rbrace
-   $$
+```math
+P = \left\lbrace \sum_{i=1}^{k} \lambda_i v_i \;\middle|\; \lambda_i \ge 0,\; \sum_{i=1}^{k} \lambda_i = 1 \right\rbrace
+```
+
    
 3. **H-Representation (Outside In):** The bounded intersection of finite closed half-spaces carved by hyperplanes:
    $$P = \{ x \in \mathbb{R}^n \mid Ax \le b \}$$
