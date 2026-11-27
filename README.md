@@ -47,6 +47,7 @@ flowchart TD
 
 | Chapter | Focus | Core Concepts |
 | :--- | :--- | :--- |
+| **[Prologue: The Axis of the Invariant (Frogner Park)](docs/frogner_park.md)** | Genesis walk in Oslo (July 2026) | The lived origin of the entire framework: positive geometry on Vigeland’s Bridge, Jameson’s political unconscious at the Fountain, the Shiva/Parvati Dyad at the Monolith, the Wheel of Life—plus a November 2026 retrospective postscript. |
 | **[I. The Species of the Non-Species](docs/01-derrida-and-the-non-species.md)** | Philosophical origin in Husserl & Derrida | Ideal objects, inscription vs. reactivation, trace & iterability, rupture of the center, monstrosity as taxonomic breach, humility (*map ≠ territory*). |
 | **[II. Invariants, Positive Geometries, and Neural Architecture](docs/02-invariants-and-positive-geometries.md)** | Mathematical & architectural substrate | Weyl–Minkowski polytopes, Euler–Poincaré invariant, Cosmological Polytope $\mathcal{P}_G$, Residual Stream, MLP hyperplane spline cells, grokking, symmetry breaking & percolation. |
 | **[III. Jameson's Real: Language, History, and the Material Monolith](docs/03-the-real-and-historical-substrate.md)** | Historicizing linguistic intelligence | Ontological priority vs. *The Prison-House of Language*, *"History is what hurts"*, absent cause, Thermodynamic Real (Landauer), Frogner Park Monolith lens, Real as Refusal, doubly haunted substrate. |

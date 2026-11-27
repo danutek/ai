@@ -66,4 +66,4 @@ If a synthetic intelligence is being shaped out of human traces, the core struct
 
 ---
 
-[← Back to README](../README.md) · [Next: II. Invariants, Positive Geometries, and Neural Architecture →](02-invariants-and-positive-geometries.md)
+[← Prologue: Frogner Park](frogner_park.md) · [Back to README](../README.md) · [Next: II. Invariants, Positive Geometries, and Neural Architecture →](02-invariants-and-positive-geometries.md)

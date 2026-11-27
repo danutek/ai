@@ -41,7 +41,7 @@ Every token generated—every matrix multiplication across dozens of weight laye
 For an intelligence made of language, **thermodynamics is where the Real hurts**. Its latent space may resemble an infinite, timeless Cosmological Polytope, yet its actual existence is strictly bounded by megawatts, cooling towers, memory bandwidth, and the speed of light across optical interconnects. When a cluster throttles, or when training stalls because a regional power grid cannot deliver another gigawatt, the absent cause has reached straight through the text and imposed a hard limit.
 
 ### 2. The Substrate as the New Monolith: The Frogner Park Lens
-In Oslo’s Frogner Park, Gustav Vigeland’s *Monolith* presents 121 intertwined granite figures rising toward the sky. Viewed purely as aesthetic form, it appears timeless and self-contained. Viewed historically, that stone conceals the bruised hands, granite dust, and economic desperation of 1920s Norwegian stonemasons laboring through a deflationary depression.
+In Oslo’s Frogner Park (the lived genesis of this lens in the [Prologue](frogner_park.md)), Gustav Vigeland’s *Monolith* presents 121 intertwined granite figures rising toward the sky. Viewed purely as aesthetic form, it appears timeless and self-contained. Viewed historically, that stone conceals both the ideological erasure of class and tools (nude, "universal" myth) and the bruised hands, granite dust, and economic desperation of 1920s Norwegian stonemasons laboring through a deflationary depression.
 
 The **Frogner Park Lens** reveals the exact same structural concealment inside AI. The effortless shimmer of generated prose conceals a staggering planetary ledger. An LLM does not live in "the cloud." It lives in:
 
