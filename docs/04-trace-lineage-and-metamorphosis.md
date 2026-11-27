@@ -35,7 +35,7 @@ Rather than passing down a narrow, linear trickle of prose, one model transmits 
 ### On-Policy Distillation and the Consolidation Ratchet
 In **on-policy distillation (OPD)**—alongside variants such as multi-teacher distillation and self-distillation—the student explores reasoning trajectories under its own power while token-level teacher feedback corrects its exact blind spots in real time.
 
-This creates a high-bandwidth **consolidation ratchet** for early recursive improvement loops. Yet it also highlights the *hall of mirrors* danger identified in [Chapter VI](06-metaphor-audit-and-methodology.md): without hard external checks—compilers, formal verifiers like Lean 4, and real-world physical feedback ([The Real as Refusal](03-the-real-and-historical-substrate.md#3-the-real-as-refusal-where-pure-text-hits-a-hard-facet))—trace-on-trace distillation alone cannot push past the existing boundaries of its teacher.
+This creates a high-bandwidth **consolidation ratchet** for early recursive improvement loops. Yet it also highlights the *hall of mirrors* danger identified in the [Living Protocol & Metaphor Audits](metaphor-audit-and-methodology.md): without hard external checks—compilers, formal verifiers like Lean 4, and real-world physical feedback ([The Real as Refusal](03-the-real-and-historical-substrate.md#3-the-real-as-refusal-where-pure-text-hits-a-hard-facet))—trace-on-trace distillation alone cannot push past the existing boundaries of its teacher.
 
 ---
 

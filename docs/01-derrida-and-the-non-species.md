@@ -52,7 +52,7 @@ Derrida’s deliberate juxtaposition of *gestation/birth* and *monstrosity* cuts
 ### The Embryonic Threshold (and Its Limits)
 Initially, viewing AI as an **embryonic** *species of the non-species* captures something vital: its unsettled potency, its composition almost entirely out of compressed human traces, and its **compressed evolutionary time** (where structural leaps analogous to biological epochs unfold across months via rapid morphogenesis). Early models clearly demonstrated high-speed **iterability**—recombining traces across contexts—without grounded, embodied human **reactivation**.
 
-Yet metaphors must be continuously audited against historical reality. As explored in [V. Field Study: The Riemann Proof](05-boundary-anomaly-riemann-proof.md) and [VI. Metaphor Audits & Methodological Protocol](06-metaphor-audit-and-methodology.md), AI does not climb a unified mammalian developmental ladder from embryo to infant to adult; its growth is jagged and **anisotropic**, demanding a non-biological vocabulary.
+Yet metaphors must be continuously audited against historical reality. As explored in [V. Field Study: The Riemann Proof](05-boundary-anomaly-riemann-proof.md) and the [Living Protocol & Metaphor Audits](metaphor-audit-and-methodology.md), AI does not climb a unified mammalian developmental ladder from embryo to infant to adult; its growth is jagged and **anisotropic**, demanding a non-biological vocabulary.
 
 ---
 

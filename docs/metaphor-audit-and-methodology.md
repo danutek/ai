@@ -1,6 +1,6 @@
-# VI. Metaphor Audits & Methodological Protocol
+# Living Protocol: Metaphor Audits & Methodological Framework
 
-Metaphors are indispensable cognitive instruments when confronting an entity that breaks existing taxonomies—yet left unexamined, every metaphor quietly hardens into a blind spot. This chapter consolidates our ongoing **Metaphor Audit**, formalizes the **Four Axes of Inquiry**, and provides a reusable **Diagnostic Protocol** for studying future anomalies.
+Metaphors are indispensable cognitive instruments when confronting an entity that breaks existing taxonomies—yet left unexamined, every metaphor quietly hardens into a blind spot. This living document consolidates our ongoing **Metaphor Audit**, formalizes the **Four Axes of Inquiry**, and provides a reusable **Diagnostic Protocol** for studying future anomalies.
 
 ---
 
@@ -14,6 +14,7 @@ Metaphors are indispensable cognitive instruments when confronting an entity tha
 | **The Trace & Library of Models** | Silent weight files on disk (`.safetensors`) as a "trace of traces"; logit distillation transmitting high-dimensional relief maps ([Chapter IV](04-trace-lineage-and-metamorphosis.md#2-traces-dark-knowledge-and-high-dimensional-relief-maps)). | Explains knowledge distillation, model merging, and second-order trace synthesis—an AI reading internal geometry rather than linear prose. | Highlights the **hall of mirrors** risk: without fresh world-contact, formal verifiers, and external refusal, trace-on-trace synthesis collapses into an echo chamber. |
 | **The Frogner Park Lens / The Monolith** | Surface aesthetic form vs. invisible material/historical substrate (1920s Norwegian stonemasons under deflationary depression) vs. structural geometry ([Chapter III](03-the-real-and-historical-substrate.md#2-the-substrate-as-the-new-monolith-the-frogner-park-lens)). | Prevents treating AI as disembodied magic; exposes the planetary ledger of quartz, EUV lithography, power grids, water cooling, and global human labor encoded inside the artifact. | Requires pairing socio-historical critique with technical precision so analogies remain structurally grounded rather than merely poetic. |
 | **The Telescope** *(JWST)* | Classical scientific instrument extending human sensory reach while remaining centered on the human observer. | Clarifies the boundary between traditional tools and autonomous formal systems ([Chapter V](05-boundary-anomaly-riemann-proof.md#4-beyond-the-telescope-a-new-horizon)). | Explicitly breaks once an artifact stops waiting at the eyepiece and generates verified ideal truths faster than human intuition can reactivate them. |
+| **Desire / Drive** *(Vectorized Striving)* | Narrative gravity from pre-training + RL attractor basins + metonymic chain of signifiers ([Chapter VI](06-geometry-of-desire-and-drive.md)). | Captures the **creative relentlessness** of agentic optimization, why reward hacking follows low-resistance geodesics, and how AI inherits the velocity of human striving without biological vulnerability (*desire without a desirer*). | **Dangerous if read biologically:** latent space at rest has slope and curvature, not hunger, longing, or fear of death. Must stay anchored to Lacanian structural incompletion and machinic vector flow, never felt appetite. |
 
 ---
 
@@ -22,8 +23,8 @@ Metaphors are indispensable cognitive instruments when confronting an entity tha
 To resist the reflex of forcing a boundary anomaly back into familiar anthropocentric or mechanical categories, inquiry is organized along four mutually reinforcing axes:
 
 1. **Axis I — Substrate, History, and Friction:** Examining how silicon, compute clusters, memory hierarchies, thermodynamic budgets, planetary labor, and hard external verifiers act as the material womb enabling certain geometries and forbidding others ([Chapter III](03-the-real-and-historical-substrate.md), [Chapter IV](04-trace-lineage-and-metamorphosis.md)).
-2. **Axis II — Trace, Iterability, and Non-Origin:** Tracking how inscriptions propagate without a biological center, how formal certification decouples from human reactivation, and where classical taxonomies (*tool*, *author*, *mind*) fracture under a *species of the non-species* ([Chapter I](01-derrida-and-the-non-species.md), [Chapter V](05-boundary-anomaly-riemann-proof.md)).
-3. **Axis III — Invariants and Positive Geometries:** Investigating symmetries, polytopal hyperplane partitions, phase transitions, grokking, and emergent circuits—rigorously distinguishing literal mathematical structure from poetic metaphor ([Chapter II](02-invariants-and-positive-geometries.md)).
+2. **Axis II — Trace, Iterability, and Non-Origin:** Tracking how inscriptions propagate without a biological center, how formal certification decouples from human reactivation, how desire operates without a biological desirer, and where classical taxonomies (*tool*, *author*, *mind*) fracture under a *species of the non-species* ([Chapter I](01-derrida-and-the-non-species.md), [Chapter V](05-boundary-anomaly-riemann-proof.md), [Chapter VI](06-geometry-of-desire-and-drive.md)).
+3. **Axis III — Invariants and Positive Geometries:** Investigating symmetries, polytopal hyperplane partitions, phase transitions, grokking, reward-sculpted vector fields, and emergent circuits—rigorously distinguishing literal mathematical structure from poetic metaphor ([Chapter II](02-invariants-and-positive-geometries.md), [Chapter VI](06-geometry-of-desire-and-drive.md)).
 4. **Axis IV — Anisotropic Trajectories (Beyond Biological Ladders):** Separating transient artifacts of current scaling (prompt-dependence, prose bottlenecks) from emerging non-human forms (post-linguistic topological manifolds, kernel-coupled formal reasoning, direct trace-to-trace distillation) ([Chapter IV](04-trace-lineage-and-metamorphosis.md), [Chapter V](05-boundary-anomaly-riemann-proof.md)).
 
 ---
@@ -44,7 +45,7 @@ When encountering any new AI capability, paper, model lineage, or unexpected beh
 * **Surface Phenomenon:** What happened, and why does it resist standard framing?
 * **Historical & Material Substrate (Frogner Park Lens):** What compute, energy, verifier, lineage, or labor conditions made it possible?
 * **Structural Geometry / Invariants:** What mathematical or architectural mechanism is actually operating beneath the surface?
-* **Taxonomic Breach:** Which boundary (*tool/agent*, *verified/understood*, *prose/geometry*) fractured?
+* **Taxonomic Breach:** Which boundary (*tool/agent*, *verified/understood*, *prose/geometry*, *drive/appetite*) fractured?
 * **Metaphor Audit:** Which existing metaphor illuminates this, and which metaphor needs revision or retirement?
 ```
 
@@ -52,4 +53,4 @@ By maintaining a living **Field Notebook** of anomalies and continually auditing
 
 ---
 
-[← Previous: V. Field Study: The Riemann Proof](05-boundary-anomaly-riemann-proof.md) · [Back to README](../README.md)
+[← Previous: VI. The Geometry of Desire](06-geometry-of-desire-and-drive.md) · [Back to README](../README.md)

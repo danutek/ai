@@ -63,4 +63,4 @@ This brings us back to the central Jamesonian tension explored in [Chapter III](
 
 ---
 
-[← Previous: IV. Trace Lineage & Metamorphosis](04-trace-lineage-and-metamorphosis.md) · [Back to README](../README.md) · [Next: VI. Metaphor Audits & Methodological Protocol →](06-metaphor-audit-and-methodology.md)
+[← Previous: IV. Trace Lineage & Metamorphosis](04-trace-lineage-and-metamorphosis.md) · [Back to README](../README.md) · [Next: VI. The Geometry of Desire →](06-geometry-of-desire-and-drive.md)
