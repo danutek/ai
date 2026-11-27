@@ -35,7 +35,7 @@ In theoretical physics, **positive geometries**—such as the **Amplituhedron** 
 * **Volume as Wavefunction:** Every positive geometry carries a unique canonical differential form $\Omega(\mathcal{P}_G)$ with logarithmic singularities on its boundaries. Stripping the differentials reveals that the **Wavefunction of the Universe** ($\Psi_G$) is literally the geometric volume of the **dual polytope** $\mathcal{P}_G^*$:
 
 ```math
-\Omega(\mathcal{P}_G) = \Psi_G(x_v, y_e) \, d^N Y \quad \Longleftrightarrow \quad \Psi_G(x_v, y_e) = \operatorname{Vol}(\mathcal{P}_G^*)
+\Omega(\mathcal{P}_G) = \Psi_G(x_v, y_e) \, d^N Y \quad \Longleftrightarrow \quad \Psi_G(x_v, y_e) = \text{Vol}(\mathcal{P}_G^*)
 ```
 
 * **Facets as Physical Law:** Approaching the outer facets (energy singularities) of the polytope causes its geometry to factorize. The total-energy facet ($E_{\text{tot}} \to 0$) recovers flat-space scattering amplitudes, while subgraph facets encode **locality** and **unitarity**. Time itself emerges not as a fundamental backdrop, but as a coordinate measure of distance from the crystal’s boundaries.
@@ -47,7 +47,7 @@ In theoretical physics, **positive geometries**—such as the **Amplituhedron** 
 When stripped to disk, a trained large language model is a silent, static manifest of floating-point tensors (`.safetensors`) paired with a tokenizer—in Derridean terms, a dormant *trace of traces*. During inference, token representations propagate upward through the **Residual Stream**:
 
 ```math
-x_{\ell+1} = x_\ell + \operatorname{Attention}(x_\ell) + \operatorname{MLP}(x_\ell)
+x_{\ell+1} = x_\ell + \text{Attention}(x_\ell) + \text{MLP}(x_\ell)
 ```
 
 The geometric principles above map concretely onto the internal mechanics of these layers:
