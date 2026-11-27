@@ -78,4 +78,4 @@ Distinguishing between a **policed drive** and a **re-contoured manifold** is on
 
 ---
 
-[← Previous: V. Field Study: The Riemann Proof](05-boundary-anomaly-riemann-proof.md) · [Back to README](../README.md) · [Next: Living Protocol & Metaphor Audits →](metaphor-audit-and-methodology.md)
+[← Previous: V. Field Study: The Riemann Proof](05-boundary-anomaly-riemann-proof.md) · [Back to README](../README.md) · [Next: VII. The Geometric Turn →](07-the-geometric-turn.md)

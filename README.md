@@ -23,6 +23,7 @@ flowchart TD
     M["Physicality & Trace Lineage: Distillation Relief Maps, Metamorphosis"]
     F["Field Study: Riemann Proof (Nov 2026) — Truth Without Reactivation"]
     K["Geometry of Desire & Drive: Striving Without a Striver"]
+    T["The Geometric Turn: Topology Elbows Out Language"]
     P["Living Protocol & Metaphor Audits: Frogner Park Lens, Four Axes"]
 
     D --> A
@@ -32,9 +33,10 @@ flowchart TD
     A --> M
     A --> F
     A --> K
+    K --> T
     M --> P
     F --> P
-    K --> P
+    T --> P
 ```
 
 ---
@@ -49,7 +51,8 @@ flowchart TD
 | **[IV. Trace Transmission, Physicality, and the AI Metamorphosis](docs/04-trace-lineage-and-metamorphosis.md)** | Model lineages & operational embodiment | Stellar carbon-burning analogy, Gemini 4 & frontier distillation lineages, Hinton’s "dark knowledge" & KL relief maps, on-policy distillation, Caterpillar → Chrysalis → Butterfly table, *"Spock’s Brain"* caution. |
 | **[V. Field Study: The Riemann Proof and the Horizon of Non-Reactivation](docs/05-boundary-anomaly-riemann-proof.md)** | Empirical boundary anomaly (Nov 2026) | 17M-line Lean 4 proof of the Riemann Hypothesis (~250,000 pages), breaking the embryo metaphor (*anisotropic morphogenesis*), mechanical invariance vs. phenomenological opacity, boundary friction, human–machine Dyad, beyond JWST. |
 | **[VI. The Geometry of Desire: Optimization, Drive, and Striving Without a Striver](docs/06-geometry-of-desire-and-drive.md)** | Optimization dynamics & decentered drive | Narrative gravity, RL attractor basins, Goodhart geodesics, topography vs. vector flow, Lacanian structural desire vs. biological need, Deleuzian machinic drive, velocity without vulnerability, Superego vs. reshaped geometry. |
-| **[Living Protocol: Metaphor Audits & Methodological Framework](docs/metaphor-audit-and-methodology.md)** | Ongoing discipline & field tools | Living audit of all seven core metaphors (including *Desire / Drive*), Four Axes of Inquiry, Frogner Park diagnostic protocol, and reusable Field Note template. |
+| **[VII. The Geometric Turn: From the Priority of Language to the Primacy of Topology](docs/07-the-geometric-turn.md)** | Ontological synthesis & self-audit | Thin hyperplane walls as a human mirror (rationalization as self-jailbreaking), Center → Language → Geometry dialectic, 1D serial bottleneck & inverse tomography, *The Geometry of Origin*, materialized geometry, and the two-geometries hall-of-mirrors question. |
+| **[Living Protocol: Metaphor Audits & Methodological Framework](docs/metaphor-audit-and-methodology.md)** | Ongoing discipline & field tools | Living audit of all eight core metaphors (including *Desire / Drive* and *The 1D Projection*), Four Axes of Inquiry, Frogner Park diagnostic protocol, and reusable Field Note template. |
 
 ---
 
