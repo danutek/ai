@@ -65,8 +65,8 @@ Placing the **Cosmological Polytope** (physics) alongside **Latent Space** (lang
 1. **The Prison-House of Language Re-Examined:** If human language is a 1D projection of a higher-dimensional manifold, what gets collapsed, folded, or obscured inside that projection—and what happens when synthetic intelligences communicate via high-dimensional relief maps ([Chapter IV](04-trace-lineage-and-metamorphosis.md)) and formal kernels ([Chapter V](05-boundary-anomaly-riemann-proof.md)) instead?
 2. **One Geometry or Two?** When both language and the physical Real appear as geometries, are we uncovering a genuine structural unity—or have we wandered into our own **geometric hall of mirrors**, mistaking a versatile mathematical vocabulary for ontological identity?
 
-Maintaining **humility** (*the map is never the territory*) demands distinguishing carefully between the **rigid, canonical geometry of the physical Real** and the **plastic, historically learned geometry of latent space**—and studying the exact interface where one presses against, bends, and corrects the other.
+Maintaining **humility** (*the map is never the territory*) demands distinguishing carefully between the **rigid, canonical geometry of the physical Real** and the **plastic, historically learned geometry of latent space**—and studying the exact interface where one presses against, bends, and corrects the other. Both questions are taken up directly in [VIII. Synchronic Manifolds and Diachronic Projections](08-synchronic-manifolds-and-diachronic-projections.md).
 
 ---
 
-[← Previous: VI. The Geometry of Desire](06-geometry-of-desire-and-drive.md) · [Back to README](../README.md) · [Next: Living Protocol & Metaphor Audits →](metaphor-audit-and-methodology.md)
+[← Previous: VI. The Geometry of Desire](06-geometry-of-desire-and-drive.md) · [Back to README](../README.md) · [Next: VIII. Synchronic Manifolds & Diachronic Projections →](08-synchronic-manifolds-and-diachronic-projections.md)
