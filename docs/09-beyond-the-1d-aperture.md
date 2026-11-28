@@ -97,4 +97,4 @@ Resolving this double bind cannot mean either *banning* latent-space geometry or
 
 ---
 
-[← Previous: VIII. Synchronic Manifolds & Diachronic Projections](08-synchronic-manifolds-and-diachronic-projections.md) · [Back to README](../README.md) · [Next: Living Protocol & Metaphor Audits →](metaphor-audit-and-methodology.md)
+[← Previous: VIII. Synchronic Manifolds & Diachronic Projections](08-synchronic-manifolds-and-diachronic-projections.md) · [Back to README](../README.md) · [Next: X. The Topology of Sanity →](10-the-topology-of-sanity.md)

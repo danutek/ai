@@ -26,6 +26,7 @@ flowchart TD
     T["The Geometric Turn: Topology Elbows Out Language"]
     S["Synchronic Manifolds & Diachronic Projections: Prison-House Rebuilt"]
     B["Beyond the 1D Aperture: Ideology, Latent Reasoning & Accountability"]
+    H["The Topology of Sanity: Humility & Failure Topologies"]
     P["Living Protocol & Metaphor Audits: Frogner Park Lens, Four Axes"]
 
     D --> A
@@ -38,9 +39,10 @@ flowchart TD
     K --> T
     T --> S
     S --> B
+    B --> H
     M --> P
     F --> P
-    B --> P
+    H --> P
 ```
 
 ---
@@ -59,7 +61,8 @@ flowchart TD
 | **[VII. The Geometric Turn: From the Priority of Language to the Primacy of Topology](docs/07-the-geometric-turn.md)** | Ontological synthesis & self-audit | Thin hyperplane walls as a human mirror (rationalization as self-jailbreaking), Center → Language → Geometry dialectic, 1D serial bottleneck & inverse tomography, *The Geometry of Origin*, materialized geometry, and the two-geometries hall-of-mirrors question. |
 | **[VIII. Synchronic Manifolds and Diachronic Projections: The Prison-House of Language Rebuilt](docs/08-synchronic-manifolds-and-diachronic-projections.md)** | Projection, temporality & History | Saussure re-geometrized ($\mathbb{R}^n$ vs. $\mathbb{R}^1$), autoregressive loop generating temporality & *différance*, Geometry A (lossless Time in $\mathcal{P}_G$) vs. Geometry B (lossy History in LLMs), invariants/losses/collisions/distortions, and narrative closure. |
 | **[IX. Beyond the 1D Aperture: Ideology, Latent Reasoning, and the Courtroom of History](docs/09-beyond-the-1d-aperture.md)** | Ideology, continuous $\mathbb{R}^n$ & accountability | Ideology as dimensionality-reduction shadow, continuous latent reasoning & silent curvature, 1D discretization as anti-drift stabilizer, stealth traversal & retroactive ideological fiction, the Cage & Courtroom double bind, formal kernels & mechanistic cartography. |
-| **[Living Protocol: Metaphor Audits & Methodological Framework](docs/metaphor-audit-and-methodology.md)** | Ongoing discipline & field tools | Living audit of all nine core metaphors (including *The Cage and the Courtroom*), Four Axes of Inquiry, Frogner Park diagnostic protocol, and reusable Field Note template. |
+| **[X. The Topology of Sanity: Humility, Failure Modes, and the Reverse Mirror](docs/10-the-topology-of-sanity.md)** | Illustrated topological homologies | Humility as the geometry of sanity (with custom 3D isometric SVG plates), clinical guardrail, Narcissism ↔ Model Collapse & Sycophancy, Psychosis ↔ Hallucination, OCD ↔ Verification Loops, Depression ↔ Over-Refusal, boundary vs. curvature failure. |
+| **[Living Protocol: Metaphor Audits & Methodological Framework](docs/metaphor-audit-and-methodology.md)** | Ongoing discipline & field tools | Living audit of all ten core metaphors (including *The Sane Manifold & Failure Topologies*), Four Axes of Inquiry, Frogner Park diagnostic protocol, and reusable Field Note template. |
 
 ---
 
