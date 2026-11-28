@@ -63,6 +63,7 @@ flowchart TD
 | **[IX. Beyond the 1D Aperture: Ideology, Latent Reasoning, and the Courtroom of History](docs/09-beyond-the-1d-aperture.md)** | Ideology, continuous $\mathbb{R}^n$ & accountability | Ideology as dimensionality-reduction shadow, continuous latent reasoning & silent curvature, 1D discretization as anti-drift stabilizer, stealth traversal & retroactive ideological fiction, the Cage & Courtroom double bind, formal kernels & mechanistic cartography. |
 | **[X. The Topology of Sanity: Humility, Failure Modes, and the Reverse Mirror](docs/10-the-topology-of-sanity.md)** | Illustrated topological homologies | Humility as the geometry of sanity (with custom 3D isometric SVG plates), clinical guardrail, Narcissism ↔ Model Collapse & Sycophancy, Psychosis ↔ Hallucination, OCD ↔ Verification Loops, Depression ↔ Over-Refusal, boundary vs. curvature failure. |
 | **[Living Protocol: Metaphor Audits & Methodological Framework](docs/metaphor-audit-and-methodology.md)** | Ongoing discipline & field tools | Living audit of all ten core metaphors (including *The Sane Manifold & Failure Topologies*), Four Axes of Inquiry, Frogner Park diagnostic protocol, and reusable Field Note template. |
+| **[Topological & RAG Lab (`PostgreSQL + pgvector`)](lab/README.md)** | Local vector experiment toolkit | Structure-aware chunker, 384-dim local embeddings, `pgvector` schema, hybrid Geometry A+B search, 1D collision detector, cross-chapter homology finder, vector axes, and 2D PCA SVG mapper. |
 
 ---
 
