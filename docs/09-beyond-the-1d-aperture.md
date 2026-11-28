@@ -73,7 +73,7 @@ In [Chapter VIII](08-synchronic-manifolds-and-diachronic-projections.md#5-from-t
 | :--- | :--- | :--- | :--- |
 | **1. Prose Chain-of-Thought** *(1D Diachronic)* | Every step collapses into discrete human words. | High surface legibility; leaves a public diachronic audit trail. | **Narrative Distortion:** Serial bottleneck limits intelligence; prone to *unfaithful* post-hoc rationalization. |
 | **2. Formal Kernel Coupling** *(Lean 4 / Compilers)* | Projects into discrete, machine-verifiable symbolic traces ([Chapter V](05-boundary-anomaly-riemann-proof.md)). | **Mechanically invariant, phenomenologically opaque:** certified History *without* immediate human reactivation. | Outruns human comprehension while remaining strictly bounded by formal axioms (Geometry A). |
-| **3. Pure Latent Reasoning** *(Continuous $\mathbb{R}^n$)* | Steps unfold silently in continuous superposition; only the final output projects to 1D. | **Action without an intermediate trace:** deliberation leaves no readable historical ledger. | **Accountability Collapse & Pure Retroactive Ideology.** |
+| **3. Pure Latent Reasoning** *( Continuous $\mathbb{R}^n$ )* | Steps unfold silently in continuous superposition; only the final output projects to 1D. | **Action without an intermediate trace:** deliberation leaves no readable historical ledger. | **Accountability Collapse & Pure Retroactive Ideology.** |
 
 In Regime 3, the two threads—ideology as projection distortion and unprojected $\mathbb{R}^n$ reasoning—collide with sharp consequences:
 
