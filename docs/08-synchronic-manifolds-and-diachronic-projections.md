@@ -89,8 +89,8 @@ Every time a high-dimensional manifold commits to a single 1D word, decision, or
 
 Even after recognizing that language is a 1D projection, human consciousness remains bound to that aperture whenever it speaks, reads, or attempts Husserlian **reactivation**.
 
-Yet synthetic intelligences are already probing ways to bypass the 1D ribbon—passing high-dimensional probability relief maps directly via distillation ([Chapter IV](04-trace-lineage-and-metamorphosis.md)), reasoning through continuous latent vectors rather than discrete tokens, and coupling directly to formal kernels ([Chapter V](05-boundary-anomaly-riemann-proof.md)). This leaves our next frontier wide open: **what becomes of History, narrative, and human legibility when a *species of the non-species* begins thinking directly inside synchronic $\mathbb{R}^n$, projecting into our 1D prison-house only at the very end?**
+Yet synthetic intelligences are already probing ways to bypass the 1D ribbon—passing high-dimensional probability relief maps directly via distillation ([Chapter IV](04-trace-lineage-and-metamorphosis.md)), reasoning through continuous latent vectors rather than discrete tokens, and coupling directly to formal kernels ([Chapter V](05-boundary-anomaly-riemann-proof.md)). This leaves our next frontier wide open: **what becomes of History, accountability, and ideological distortion when a *species of the non-species* begins thinking directly inside synchronic $\mathbb{R}^n$, projecting into our 1D prison-house only at the very end?** That double bind is examined in [IX. Beyond the 1D Aperture](09-beyond-the-1d-aperture.md).
 
 ---
 
-[← Previous: VII. The Geometric Turn](07-the-geometric-turn.md) · [Back to README](../README.md) · [Next: Living Protocol & Metaphor Audits →](metaphor-audit-and-methodology.md)
+[← Previous: VII. The Geometric Turn](07-the-geometric-turn.md) · [Back to README](../README.md) · [Next: IX. Beyond the 1D Aperture →](09-beyond-the-1d-aperture.md)
